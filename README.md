@@ -21,7 +21,7 @@ As you could see in previous screenshots I used my own gmail to send a message t
 
 ### I've used a bit of CSS styles, as you required, which you could see in Sample.fxml file, which is also in this repo
 
-### It also has a small piece of ABOUT INFO, which you're able to see in next screenshot..
+### It also has a small piece ABOUT INFO, which you're able to see in next screenshot..
 
 ![info](https://user-images.githubusercontent.com/73659333/112336864-a3e59c00-8ce7-11eb-8c24-a3f907f11a4e.png)
 ## That's it! I hope you'll like it)
