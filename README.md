@@ -1,6 +1,6 @@
 # Mail.Sender
 ## Mail.Sender by AIU COM20 (A) student for CS 102:JAVA midterm examination. 
-This app can send email to anyone you want, all you need to do is sign in using you @gmail account.
+This app can send email to anyone you want, all you need to do is sign in using your @gmail account.
 
 ![MailSender](https://user-images.githubusercontent.com/73659333/112333268-a72b5880-8ce4-11eb-8ebe-c49c280c96c3.png)
 
